@@ -1,0 +1,61 @@
+
+QLineEdit {
+
+border: 1px solid gray;
+border-radius: 10px;
+padding: 0 8px;
+background: yellow;
+selection-background-color: darkgray;
+}
+
+
+#lineEdit
+{
+color: rgb(255, 255, 255);
+border: 1px;
+background-color: rgba(90, 90, 90, 90);
+border-radius: 10px;
+}
+
+#pushButton
+{
+border-radius: 5px;
+}
+
+#mywidget111
+{
+border: 2px solid gray;
+background: white;
+border-radius: 15px;
+}
+
+#centralwidget
+{
+border: 2px solid gray;
+background-color: rgb(27, 27, 27);
+border-radius: 10px;
+}
+
+
+#mywidget2{
+border: 0px solid black;
+border-radius: 5px;
+background-color: rgb(39, 39, 39);
+}
+
+
+#mywidget{
+border: 0px solid black;
+border-radius: 10px;
+background-color: rgb(39, 39, 39);
+}
+
+#widget_3{
+border: 0px solid black;
+border-radius: 10px;
+background-color: rgb(39, 39, 39);
+}
+
+#widget_4{
+background: transparent;
+}

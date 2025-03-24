@@ -1,0 +1,39 @@
+<RCC>
+    <qresource prefix="/">
+        <file>start.jpg</file>
+        <file>head.jpg</file>
+        <file>quit.jpg</file>
+        <file>reg.jpg</file>
+        <file>OP_Search.png</file>
+        <file>Edit_close.png</file>
+        <file>login_User .png</file>
+        <file>stop.png</file>
+        <file>play.png</file>
+        <file>next.png</file>
+        <file>pre.png</file>
+        <file>love.png</file>
+        <file>style.qss</file>
+        <file>loved.png</file>
+        <file>logo.png</file>
+        <file>reg2.png</file>
+        <file>exit.png</file>
+        <file>singer.jpg</file>
+        <file>shunxu.svg</file>
+        <file>voice.svg</file>
+        <file>24gl-playlist.svg</file>
+        <file>dian.svg</file>
+        <file>play2.svg</file>
+        <file>love1.svg</file>
+        <file>sou.svg</file>
+        <file>his.svg</file>
+        <file>hea.svg</file>
+        <file>20240918214033.gif</file>
+        <file>end.jpg</file>
+        <file>one.svg</file>
+        <file>返回.svg</file>
+        <file>前进.svg</file>
+        <file>最小化.svg</file>
+        <file>24gl-square.svg</file>
+        <file>竖线.svg</file>
+    </qresource>
+</RCC>
